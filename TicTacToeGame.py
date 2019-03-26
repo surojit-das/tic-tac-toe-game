@@ -2,7 +2,7 @@
 """
 Created on Tue Jan 30 22:13:14 2018
 
-@author: Surojit
+@author: Surojit Das
 """
 
 import random
